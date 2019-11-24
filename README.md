@@ -5,7 +5,7 @@ It uses various microservices to handle different requests.
 
 # Architecture
 
-<img src="https://github.com/nguyensjsu/fa19-281-pandavas/blob/master/Images/Architecture.jpg">
+![Architecture](Architecture.png)
 
 
 # Design Summary
